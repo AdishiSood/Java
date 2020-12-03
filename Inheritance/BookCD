@@ -4,7 +4,7 @@ Imagine a publishing company that markets both Book and CD's of its works. A cla
 Book, which adds a page count and author, and a constructor having title, price, pages & writer as parameters.
 CD, which adds a playing time in minutes, and a constructor having title, price & length as parameters.
 Each of these two classes should have a putdata() function to display its data as shown in sample output.
-
+ 
 */
 
 import java.util.Scanner;
