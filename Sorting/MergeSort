@@ -18,8 +18,6 @@ class Main {
       L[i] = array[p + i];
     for (int j = 0; j < n2; j++)
       M[j] = array[q + 1 + j];
-
-    // Maintain current index of sub-arrays and main array
     int i, j, k;
     i = 0;
     j = 0;
