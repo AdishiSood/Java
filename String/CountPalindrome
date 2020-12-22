@@ -1,9 +1,5 @@
-/*
-Write a function which returns the count of palindrome words present in the string. A word in a string is separated with space(s).
-*/
-
 import java.util.*;
-class Main
+class Palindrome
 {
 public static void main(String[] args)
 {
