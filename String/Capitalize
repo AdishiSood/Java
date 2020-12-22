@@ -1,6 +1,4 @@
-//Write a program which given a string, Capitalize first letter of each word in it.
-
-import java.util.Scanner;
+ import java.util.Scanner;
 class Capitalize
 static String capitalizeFirstChar(String str)
 {
