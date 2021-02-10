@@ -7,7 +7,7 @@ The toUpperCase() method works same as toUpperCase(Locale.getDefault()) method. 
 
 */
 
-public class StringUpperExample
+public class toUpperCase
 {  
 public static void main(String args[])
 {  
