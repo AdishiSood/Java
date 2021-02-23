@@ -1,3 +1,10 @@
+/*
+
+Java Program to subtract two matrices
+Two matrices A and B can be subtracted if and only if they have same dimensions that are, the same number of rows and columns.
+It is not possible to subtract a 2 × 3 matrix from a 3 × 2 matrix. 
+
+*/
 public class Subtract_Matrix  
 {  
     public static void main(String[] args) {  
