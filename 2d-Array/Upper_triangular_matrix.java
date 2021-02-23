@@ -1,3 +1,11 @@
+/*
+
+Java Program to display the upper triangular matrix
+Upper triangular matrix is a square matrix in which all the elements below the principle diagonal are zero. 
+To find the upper triangular matrix, a matrix needs to be a square matrix that is, the number of rows and columns in the matrix need to be equal.
+Dimensions of a typical square matrix can be represented by n x n.
+
+*/
 public class UpperTriangular    
 {    
     public static void main(String[] args) 
