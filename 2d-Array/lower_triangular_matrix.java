@@ -1,3 +1,11 @@
+/*
+
+Java Program to display the lower triangular matrix
+Lower triangular matrix is a square matrix in which all the elements above the principle diagonal will be zero.
+To find the lower triangular matrix, a matrix needs to be a square matrix that is, the number of rows and columns in the matrix need to be equal.
+Dimensions of a typical square matrix can be represented by n x n.
+
+*/
 public class LowerTriangular    
 {    
     public static void main(String[] args)
