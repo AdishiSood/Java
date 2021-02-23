@@ -1,3 +1,9 @@
+/*
+
+Java Program to add two matrices
+We can add two matrices in java using binary + operator. A matrix is also known as array of arrays. 
+
+*/
 public class AddMatrices 
 {
 
