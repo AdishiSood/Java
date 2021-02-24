@@ -1,3 +1,8 @@
+/*
+
+Traversing an array is an elementary operation on an array, in which each element will be processed for some operation.
+
+*/
 import java.util.Scanner;
 class Result
 {
