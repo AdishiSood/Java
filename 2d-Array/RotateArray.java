@@ -1,3 +1,8 @@
+/*
+
+Write a program to Rotate an array in clockwise direction(90degree)
+
+*/
 import java.util.Scanner;
 class RotateArray
 {
