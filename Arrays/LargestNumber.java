@@ -1,3 +1,10 @@
+/*
+
+This is a Java Program to Find the Largest Number in an Array.
+Enter the elements of array as input.
+By comparing elements of array with each other we get the largest number of the array.
+
+*/
 import java.util.Scanner;
 public class LargestNumber 
 {
