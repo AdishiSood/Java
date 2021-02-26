@@ -26,4 +26,15 @@ int a[]={7,7,10,16,32,12};
 int b[]={5,62,19,72,23,20,54};  
 System.out.println("Third Largest: "+getThirdLargest(a,6));  
 System.out.println("Third Largest: "+getThirdLargest(b,7));  
-}}  
+}
+}
+
+
+/*
+
+OUTPUT 
+
+Third Largest: 12
+Third Largest: 54
+
+*/
