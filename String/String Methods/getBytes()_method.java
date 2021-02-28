@@ -8,7 +8,7 @@ public byte[] getBytes(Charset charset)
 public byte[] getBytes(String charsetName)throws UnsupportedEncodingException  
 
 */
-public class StringExample
+public class getBytes
 {  
 public static void main(String args[])
 {  
