@@ -16,8 +16,8 @@ String s1="gist";
 char ch[]={'g','i','t','h','u','b'};  
 String s2=new String(ch);  
 String s3=new String("programming");  
-System.out.println(s1);  
-System.out.println(s2);  
-System.out.println(s3);  
+System.out.println(s1);  //gist
+System.out.println(s2);  //github
+System.out.println(s3);  //programming
 }
 }  
