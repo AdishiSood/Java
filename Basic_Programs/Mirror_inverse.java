@@ -1,3 +1,8 @@
+/*
+
+An array is called mirror–inverse if its inverse is equal to itself. Let’s now write a program and check whether the given array is mirror inverse or not.
+
+*/
 public class MirrorInverse 
 {
 //Function that returns true if the array is mirror-inverse
