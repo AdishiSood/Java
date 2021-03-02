@@ -8,7 +8,6 @@
 - Inheritance
 - String
    * String Methods
-- Java Fundamentals
 
 **Note:**
 
