@@ -1,11 +1,13 @@
 
 ## ☕Learn Java Programming
 **This Repo contains Java Programs related to Concepts:**
- 
-- Java Object-Oriented Programming
-- Strings
+- Begineers level Programs 
+- 1D- Array
+- 2D- Array
 - Sorting Algorithms
-- Array
+- Inheritance
+- String
+   * String Methods
 - Java Fundamentals
 
 **Note:**
