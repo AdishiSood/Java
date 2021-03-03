@@ -1,6 +1,6 @@
 
 ## ☕Learn Java Programming
-**This Repo contains Java Programs related to Concepts:**
+**This Repository contains Java Programs related to Concepts:**
 - Begineers level Programs 
 - 1D- Array
 - 2D- Array
