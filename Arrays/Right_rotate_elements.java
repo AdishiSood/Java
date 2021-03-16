@@ -5,8 +5,10 @@ An array is said to be right rotated if all elements of the array are moved to i
 One approach is to loop through the array by shifting each element of the array to its next position.
 The last element of the array will become the first element of the rotated array.
 */
-class RotateRight {    
-    public static void main(String[] args) {    
+class RotateRight 
+{    
+    public static void main(String[] args) 
+    {    
         //Initialize array     
         int [] arr = new int [] {1, 2, 3, 4, 5};     
         //n determine the number of times an array should be rotated.    
@@ -41,4 +43,3 @@ class RotateRight {
         }    
     }    
 } 
-   
